@@ -11,10 +11,3 @@ nav.querySelectorAll("a").forEach(link => link.addEventListener("click", () => {
   toggle.textContent = "☰";
 }));
 document.getElementById("year").textContent = new Date().getFullYear();
-
-/*
-  ÎNAINTE DE PUBLICARE, actualizează:
-  - telefonul și linkul WhatsApp (format internațional, fără + sau spații)
-  - adresa, programul și linkurile sociale
-  - numele sortimentelor, descrierile și prețurile reale
-*/
