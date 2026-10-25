@@ -1,1 +1,0 @@
-Site La Famiglia. Folderul se numește exact assets. (cu punct la final), conform solicitării. Încărcați index.html, style.css, script.js și folderul assets. în rădăcina repository-ului. Program: luni–duminică 12:00–22:00.
